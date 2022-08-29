@@ -1,2 +1,10 @@
 Hello World!, Welcome to my first Git Repo
 This is second commit test
+
+1) Git status - check for unsaved changes first
+2) First make the changes 
+3) Save File
+4) git add . - add to the waiting Room (if there was only changes to one file, specify that eg: git add helloworld.txt)
+5) git commit -m "This is where you place the comment for the change"
+6) git log - to check if the changes are logged
+6) git push - to push to github repo 
